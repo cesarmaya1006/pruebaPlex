@@ -13,7 +13,7 @@
   <body>
     <h1>Hello, world!</h1>
     <br>
-    <h2>Funcion Mayito</h2>
+    <h2>Funcion Mayito full</h2>
 
     <!-- Optional JavaScript; choose one of the two! -->
 
